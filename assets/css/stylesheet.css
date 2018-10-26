@@ -1,0 +1,13 @@
+.jumbotron {
+    background-color:yellowgreen;
+}
+
+body {
+    background-color: #f4e842;
+}
+
+h2, #addGif, #action-input {
+    float: right;
+    padding-right: 0px;
+    position: relative;
+}
